@@ -1,7 +1,7 @@
 {
 	"name": "oscilloscope",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Audio Visualizer made with Analyser Node - Web API",
 	"main": "index.js",
 	"browserslist": [
 		"last 1 chrome version"
